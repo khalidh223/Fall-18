@@ -1,5 +1,5 @@
 Welcome to The Death of Tiffany Valencia, a text based murder mystery adventure
-developed by Khalid Hussain and Elwood Olson.
+developed by Khalid Hussain and Elwood Olson in Python.
 
 This program is currently stable, and we believe all bugs have been eliminated.
 -----------------------------
