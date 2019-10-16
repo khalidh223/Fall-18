@@ -1,0 +1,24 @@
+Room:Bedroom:(1)
+Description: The trail of blood seems to have started here, because you find a large pool of blood on the bed. It seems like the body was dragged out from here. A knife lies on the bedstand, and a small glimmering key is on the ground. A folded letter is neatly placed on a desk in the corner...
+knife,It's filmed over with dried blood. This might come in handy as evidence...,key,It's a small object that must open something...,letter,Damn! It's written in Italian...
+north,,south,Living Room,,,,
+------------------------
+Room:Dining Room:(2)
+Description: A room with a dining table and some food. A mysterious locked box is sitting in the corner...
+cards,They are left over from a recent game of blackjack.,alcohol,There is a large ceramic jug full of bootleg rum. It smells strong...,can-opener,It is an object used for cutting open cans.
+north,Living Room,,,east,Kitchen,,
+-----------------------
+Room:Foyer:(3)
+Description: The doorway to the victim's home. In the pocket of one of the coats is a locket. An envelope containing an invoice is poking out of the mail slot. A blood trail leads to the living room...
+locket,Inside is a small photograph of a man. Underneath the photo is the caption "My love: Bobby".,invoice,It is a furiously scrawled informal demand for money from infamous mobster Valentino Russo - "Valencia! I want my money back NOW!",,
+,,,,east,Living Room,,
+-----------------------
+Room:Kitchen:(4)
+Description: This is the common area for cooking, and it looks like it has been thoroughly cleaned recently. All the cooking items have been put away, with the exception of a can that feels suspiciously hollow sitting on the counter...
+pan,It has been scrubbed spotless. You can almost smell the soap.,,,,
+,,south,Dining Room,,,west,Living Room
+-----------------------
+Room:Living Room:(5)
+Description: A room with a nice T.V. and a coffee table. There is an Italian-English dictionary on the table, and the same blood trail from the Foyer leads to the bedroom...
+bookshelf,There is a book on rare mineral appraisal. It is bookmarked on a page describing the best way to sell diamonds.,betting-slip,It's a scrap of paper with three digits numbers on it. Looks like someone has been running numbers...,cigarette,There is a temptingly fresh cigarette lying on the table. If only you had a way to light it...
+north,Bedroom,south,Dining Room,east,Kitchen,west,Foyer

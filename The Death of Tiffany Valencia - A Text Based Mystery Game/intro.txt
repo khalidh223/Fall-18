@@ -1,0 +1,7 @@
+The year is 1923 in bustling New York City. The body of one Tiffany Valencia was
+found late last night, brutally murdered and missing an ear. You, Detective Vincent
+Decker, are tasked with finding out who truly murdered Tiffany. You arrive at the
+crime scene alone to investigate...
+For help and a list of commands, see readme.txt.
+
+Hit Enter to Continue...
